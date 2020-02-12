@@ -1,0 +1,53 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1580565538353'); /* IE9 */
+  src: url('iconfont.eot?t=1580565538353#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,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') format('woff2'),
+  url('iconfont.woff?t=1580565538353') format('woff'),
+  url('iconfont.ttf?t=1580565538353') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1580565538353#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+/*  font-size: 16px; */
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ /* 查询按钮 */
+.icon-chaxun:before {
+  content: "\e606";
+}
+/* 播放按钮 */
+.icon-bofang:before { 
+  content: "\e607";
+}
+/* 暂停按钮 */
+.icon-zanting:before { 
+  content: "\e60c";
+}
+/* 单曲循环 */
+.icon-danquxunhuan:before { 
+  content: "\e608";
+}
+/* 列表循环 */
+.icon-liebiaoxunhuan:before { 
+  content: "\e609";
+}
+/* 随机播放 */
+ .icon-suijixunhuan:before { 
+   content: "\e60b";
+ }
+/* 前一首 */
+.icon-zuoyishou:before { 
+  content: "\e60a";
+}
+/* 歌单 */
+.icon-liebiao:before { 
+  content: "\e60d";
+}
+/* 后一首 */
+.icon-youyishou:before { 
+  content: "\e60e";
+}
+

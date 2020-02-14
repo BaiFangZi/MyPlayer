@@ -1,6 +1,6 @@
 # player
 
-> A Vue.js project
+> 闲来无事练练手，自己用vue写了个播放器，使用的是酷狗的api
 
 ## Build Setup
 
